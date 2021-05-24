@@ -16,7 +16,8 @@
 
 <hr>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Jen </h1>
+<h1 align="center">@zenjen-devs </h1>
+<h2 align="center">welcome to Jen's Github site </h2>
 <h3 align="center">Analytics Engineer + Statistical Programmer | BSc., Data Science @ NYU [Final Year] </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/zenjen.io" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_zenjen.io" height="20" width="20" /></a>
