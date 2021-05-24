@@ -5,8 +5,8 @@
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
- </p>
+
+</p>
  <p align="center">
 
   
@@ -19,17 +19,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jen </h1>
 <h3 align="center">Analytics Engineer + Statistical Programmer | BSc., Data Science @ NYU [Final Year] </h3>
 <p align="center">
-<a href="https://www.hackerrank.com/zenjen.io" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_zenjen.io" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jarriaza/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_jarriaza" height="30" width="40" /></a>  
-<a href="https://www.kaggle.com/zenjen.io" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_zenjen.io" height="30" width="40" /></a>
-<a href="https://www.instagram.com/zenjen.io/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/zenjen.io" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_zenjen.io" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/jarriaza/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_jarriaza" height="20" width="30" /></a>  
+<a href="https://www.kaggle.com/zenjen.io" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_zenjen.io" height="20" width="30" /></a>
+<a href="https://www.instagram.com/zenjen.io/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="20" width="30" /></a>
  <a href = "mailto: jen.arriaza@nyu.edu"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
 
 
 
-<p align="center">
+<p align="left">
   <em>
     Hello! I'm Jen, a <b>final year</b> undergraduate at New York University with industry experience in analytics engineering & statistical programming. <br>
   </em>
@@ -38,7 +38,7 @@
 </p>
 <br><br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; [ about me ]
+&nbsp; [ about me ] <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 » NYC | LI <br>
 » currently assisting a team of research scientists (NYU Langone/U. Chicago) in statistical data analysis, contributing co-author on publications <br>
@@ -50,7 +50,7 @@
 
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; [ my working tools ]
+&nbsp; [ my working tools ] <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="left">
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
@@ -84,8 +84,10 @@
 <hr>
 
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+<p align="center">
+
+</p><br>
+
 
 
 
