@@ -18,7 +18,7 @@
 
 <h1 align="center">@zenjen-devs </h1>
 <h2 align="center">welcome to Jen's Github site </h2>
-<h3 align="center">analytics engineer + statistical Programmer | BSc., Data Science @ NYU (third year) </h3>
+<h3 align="center">programmer + research data analyst | BSc., Data Science @ NYU (third year) </h3>
 <p align="center">
  <a href="https://www.instagram.com/zenjen.io/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/jarriaza/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_jarriaza" height="20" width="20" /></a>  
