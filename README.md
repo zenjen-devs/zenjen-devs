@@ -18,7 +18,7 @@
 
 <h1 align="center">@zenjen-devs </h1>
 <h2 align="center">welcome to Jen's Github site </h2>
-<h3 align="center">Analytics Engineer + Statistical Programmer | BSc., Data Science @ NYU [Final Year] </h3>
+<h3 align="center">analytics engineer + statistical Programmer | BSc., Data Science @ NYU (third year) </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/zenjen.io" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_zenjen.io" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/jarriaza/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_jarriaza" height="20" width="20" /></a>  
@@ -43,9 +43,9 @@
 &nbsp; <b>about me</b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 » NYC | LI <br>
-» currently assisting research scientists at NYU Langone & U.Chicago in statistical data analysis, contributing co-author on publications <br>
-» learning applied statistical methods--linear/non-linear models, and machine learning<br>
-» open to collaborate with the **open source data science** community <br>
+» currently assisting research scientists at NYU Langone & U.Chicago in <b><i>statistical data analysis</b></i> , contributing co-author on publications<br>
+» learning applied statistical methods--linear/non-linear models, and <b><i>machine learning</b></i> <br>
+» open to collaborate with the <b>open source data science</b> community <br>
 » fun fact: I first learned to use the command line and mess with source code as a fourth grader <br><br><br><br>
  
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
