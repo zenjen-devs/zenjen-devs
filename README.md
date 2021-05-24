@@ -39,10 +39,10 @@
 </p>
 <br><br>
 
-&nbsp; <b>about me ] </b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+&nbsp; <b>about me</b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 » NYC | LI <br>
-» currently assisting research scientists at NYU Langone & U.Chicago in statistical data analysis, and as contributing co-author on publications <br>
+» currently assisting research scientists at NYU Langone & U.Chicago in statistical data analysis, contributing co-author on publications <br>
 » learning applied statistical methods--linear/non-linear models, and machine learning<br>
 » open to collaborate with the **open source data science** community <br>
 » fun fact: I first learned to use the command line and mess with source code as a fourth grader <br><br><br><br>
