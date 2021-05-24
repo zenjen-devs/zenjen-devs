@@ -30,7 +30,7 @@
 <p align="center">
   <em>
     Hello! I'm Jen, a <b>final year</b> undergraduate from New York University with industry experience in analytics engineering & statistical programming.  <br>
-
+  </em>
   
   <br>
 </p>
