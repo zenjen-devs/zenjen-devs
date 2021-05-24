@@ -15,7 +15,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jen </h1>
-<h3 align="center">Analytics Engineer + Statistical Programmer | BSc., Data Science @ NYU [3rd Yr] </h3>
+<h3 align="center">Analytics Engineer + Statistical Programmer | BSc., Data Science @ NYU [Final Year] </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/zenjen.io" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jarriaza/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
@@ -28,8 +28,8 @@
 
 
 <p align="center">
-  
-    Hello! I'm Jen, a <b>final year</b> undergraduate from <b>New York University</b></a>. <br>
+  <em>
+    Hello! I'm Jen, a <b>final year</b> undergraduate from New York University with industry experience in analytics engineering & statistical programming.  <br>
 
   
   <br>
@@ -37,7 +37,7 @@
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; [ about me ]
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
