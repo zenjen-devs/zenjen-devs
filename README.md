@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+
 </p>
 <br>
 
@@ -8,14 +8,16 @@
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-26-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+
+  
+  
+  
 </p>
+
 <hr>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jen </h1>
-<h3 align="center">Analytics Engineer + Statistical Programmer | BSc., Data Science @ NYU [Final Year] </h3>
+<h3 align="center">Analytics Engineer + Statistical Programmer | BSc., Data Science @ NYU <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Purpleheart.gif" width="30px"> [Final Year] </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/zenjen.io" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jarriaza/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
@@ -29,13 +31,12 @@
 
 <p align="center">
   <em>
-    Hello! I'm Jen, a <b>final year</b> undergraduate from New York University with industry experience in analytics engineering & statistical programming.  <br>
+    Hello! I'm Jen, a <b>final year</b> undergraduate at New York University with industry experience in analytics engineering & statistical programming. <br>
   </em>
   
   <br>
 </p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; [ about me ]
 
@@ -46,8 +47,11 @@
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;_*****__My working tools...***__**_
+
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; [ my working tools ]
 <p align="left">
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
