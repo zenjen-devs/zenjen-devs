@@ -43,8 +43,6 @@
 » fun fact: I first learned to use the command line and mess with source code as a fourth grader <br><br><br><br>
  
 
-
-
 &nbsp; <b>my working tools</b>
 <br>
 <p align="left">
