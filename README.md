@@ -18,14 +18,8 @@
 
 <h1 align="center">@zenjen-devs </h1>
 <h2 align="center">welcome to Jen's Github site </h2>
-<h3 align="center">programmer + research data analyst | BSc., Data Science @ NYU (third year) </h3>
-<p align="center">
- <a href="https://www.instagram.com/zenjen.io/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/jarriaza/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_jarriaza" height="20" width="20" /></a>  
-<a href="https://www.kaggle.com/zenjen.io" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_zenjen.io" height="20" width="20" /></a>
- <a href = "mailto: jen.arriaza@nyu.edu"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="20" width="20" /></a>
-</p>
-</p>
+<h3 align="center">BSc., Data Science @ NYU (final year) </h3>
+
 
 
 
@@ -39,19 +33,19 @@
 </p>
 <br><br>
 
-&nbsp; <b>about me</b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+&nbsp; <b>about me</b>
 
 » NYC | LI <br>
-» currently assisting research scientists at NYU Langone & U.Chicago in <b>statistical data analysis</b>, contributing co-author on publications<br>
-» learning applied statistical methods--linear/non-linear models, and <b>machine learning</b> <br>
+» currently a working student @ BMW, junior data scientist in US autonomous driving team
+» contributing co-author on publications in statistical data analysis (see portfolio for more)<br>
+» learning applied data science & statistical methods--linear/non-linear models, and <b>machine learning</b> <br>
 » open to collaborate with the <b>open source data science</b> community <br>
 » fun fact: I first learned to use the command line and mess with source code as a fourth grader <br><br><br><br>
  
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 
-&nbsp; <b>my working tools</b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+&nbsp; <b>my working tools</b>
 <br>
 <p align="left">
 
