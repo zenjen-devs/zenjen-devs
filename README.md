@@ -20,9 +20,6 @@
 <h2 align="center">welcome to Jen's Github site </h2>
 <h3 align="center">BSc., Data Science @ NYU (final year) </h3>
 
-
-
-
 <p align="left">
   <em>
 
@@ -31,7 +28,6 @@
   
   <br>
 </p>
-<br><br>
 
 &nbsp; <b>about me</b>
 
@@ -41,7 +37,6 @@
 » learning applied data science & statistical methods--linear/non-linear models, and <b>machine learning</b> <br>
 » open to collaborate with the <b>open source data science</b> community <br>
 » fun fact: I first learned to use the command line and mess with source code as a fourth grader <br><br><br><br>
- 
 
 &nbsp; <b>my working tools</b>
 <br>
